@@ -1,5 +1,5 @@
 from bomb_keypad import wait_for_key
-            
+from bomb_display import greeting
 from bomb_sound import beeping
 from machine import Pin
 import time
